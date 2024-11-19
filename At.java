@@ -5,6 +5,4 @@ import java.awt.event.ActionListener;
 import utils.ArrayList;
 import utils.List;
 
-public class AttendanceForm extends JFrame {
-
-}
+public class Attendan extends JFrame {
